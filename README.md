@@ -12,7 +12,7 @@
 
 ---
 
-Founder of **Bynaithn**. Building ventures, products, and systems since the age of **16**.
+Founder of **bynaithnHQ**. Building ventures, products, and systems since the age of **16**.
 
 Over **10+ years of experience** across software engineering, entrepreneurship, product development, venture creation, business operations, and motorsport.
 
