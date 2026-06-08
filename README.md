@@ -40,11 +40,6 @@ Over **10+ years of experience** across software engineering, entrepreneurship, 
 
 ---
 
-## Workflow
-JetBrains Ecosystem | GitHub Copilot | Junie | System Design | Automation | Product Architecture
-
----
-
 ## Focus 
 
 Venture Building | Product Development | System Architecture | Business Operations | Automation & AI | Strategic Investments
