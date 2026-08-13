@@ -5,9 +5,9 @@
 > *Life in my hands. Throttle in my soul. Passport in my pocket.*
 
 <p align="left">
-  <a href="https://bynaithn.com">Website</a> •
-  <a href="https://linkedin.com/in/bynaithn">LinkedIn</a> •
-  <a href="https://instagram.com/bynaithn">Instagram</a>
+  <a href="https://whrlbe.com">Website</a> •
+  <a href="https://linkedin.com/in/bywhrlbe">LinkedIn</a> •
+  <a href="https://instagram.com/bywhrlbe">Instagram</a>
 </p>
 
 ---
